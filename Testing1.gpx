@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode">
+    
+    <!--
+     Provide one or more waypoints containing a latitude/longitude pair. If you provide one
+     waypoint, Xcode will simulate that specific location. If you provide multiple waypoints,
+     Xcode will simulate a route visiting each waypoint.
+     -->
+    
+    <!-- The first point is not read by LM -->
+    <!-- Consecutive same entries are regarded as 1 entry -->
+    
+    <wpt lat="22.337206" lon="114.175594">
+        <name>Dummy</name>
+    </wpt>
+    
+    <wpt lat="22.337276" lon="114.175389">
+        <name>PT1</name>
+    </wpt>
+
+    <wpt lat="22.337206" lon="114.175594">
+        <name>PT2</name>
+    </wpt>
+    <wpt lat="22.336944" lon="114.175541">
+        <name>PT3</name>
+    </wpt>
+    <wpt lat="22.337102" lon="114.175744">
+        <name>PT4</name>
+    </wpt>
+    <wpt lat="22.337092" lon="114.175678">
+        <name>PT5</name>
+    </wpt>
+    <wpt lat="22.337166" lon="114.175702">
+        <name>PT6</name>
+    </wpt>
+    <wpt lat="22.337076" lon="114.175646">
+        <name>PT7</name>
+    </wpt>
+    <wpt lat="22.337078" lon="114.175627">
+        <name>PT8</name>
+    </wpt>
+    <wpt lat="22.337034" lon="114.175640">
+        <name>PT9</name>
+    </wpt>
+    <wpt lat="22.336982" lon="114.175666">
+        <name>PT10</name>
+    </wpt>
+    <wpt lat="22.336939" lon="114.175684">
+        <name>PT11</name>
+    </wpt>
+    <wpt lat="22.336899" lon="114.175631">
+        <name>PT12</name>
+    </wpt>
+    <wpt lat="22.336872" lon="114.175585">
+        <name>PT13</name>
+    </wpt>
+    <wpt lat="22.336868" lon="114.175052">
+        <name>PT14</name>
+    </wpt>
+    <wpt lat="22.336894" lon="114.175008">
+        <name>PT15</name>
+    </wpt>
+    <wpt lat="22.336763" lon="114.175335">
+        <name>PT16</name>
+    </wpt>
+    <wpt lat="22.336777" lon="114.175288">
+        <name>PT17</name>
+    </wpt>
+    <wpt lat="22.336494" lon="114.175639">
+        <name>PT18</name>
+    </wpt>
+    <wpt lat="22.336446" lon="114.175643">
+        <name>PT19</name>
+    </wpt>
+    <wpt lat="22.336403" lon="114.175601">
+        <name>PT20</name>
+    </wpt>
+    <wpt lat="22.336379" lon="114.175551">
+        <name>PT21</name>
+    </wpt>
+    <wpt lat="22.336373" lon="114.175527">
+        <name>PT22</name>
+    </wpt>
+    <wpt lat="22.336357" lon="114.175460">
+        <name>PT23</name>
+    </wpt>
+    <wpt lat="22.336317" lon="114.175414">
+        <name>PT24</name>
+    </wpt>
+    <wpt lat="22.336271" lon="114.175394">
+        <name>PT25</name>
+    </wpt>
+    <wpt lat="22.336226" lon="114.175362">
+        <name>PT26</name>
+    </wpt>
+    <wpt lat="22.336185" lon="114.175331">
+        <name>PT27</name>
+    </wpt>
+    <wpt lat="22.336176" lon="114.175276">
+        <name>PT28</name>
+    </wpt>
+    <wpt lat="22.336141" lon="114.175231">
+        <name>PT29</name>
+    </wpt>
+    <wpt lat="22.336101" lon="114.175197">
+        <name>PT30</name>
+    </wpt>
+    <wpt lat="22.336062" lon="114.175162">
+        <name>PT31</name>
+    </wpt>
+    <wpt lat="22.336031" lon="114.175118">
+        <name>PT32</name>
+    </wpt>
+    <wpt lat="22.336052" lon="114.175069">
+        <name>PT33</name>
+    </wpt>
+    <wpt lat="22.336089" lon="114.175022">
+        <name>PT34</name>
+    </wpt>
+    <wpt lat="22.336107" lon="114.174971">
+        <name>PT35</name>
+    </wpt>
+    <wpt lat="22.336125" lon="114.174911">
+        <name>PT36</name>
+    </wpt>
+    <wpt lat="22.336171" lon="114.174888">
+        <name>PT37</name>
+    </wpt>
+    <wpt lat="22.336214" lon="114.174910">
+        <name>PT38</name>
+    </wpt>
+    <wpt lat="22.336250" lon="114.174871">
+        <name>PT39</name>
+    </wpt>
+    <wpt lat="22.336288" lon="114.174827">
+        <name>PT40</name>
+    </wpt>
+    <wpt lat="22.336321" lon="114.174787">
+        <name>PT41</name>
+    </wpt>
+    <wpt lat="22.336357" lon="114.174743">
+        <name>PT42</name>
+    </wpt>
+    <wpt lat="22.336382" lon="114.174700">
+        <name>PT43</name>
+    </wpt>
+    <wpt lat="22.336410" lon="114.1746607">
+        <name>PT44</name>
+    </wpt>
+    
+    <wpt lat="22.336441" lon="114.174618">
+        <name>PT45</name>
+    </wpt>
+    <wpt lat="22.336468" lon="114.174576">
+        <name>PT46</name>
+    </wpt>
+    <wpt lat="22.336497" lon="114.174537">
+        <name>PT47</name>
+    </wpt>
+    <wpt lat="22.336531" lon="114.174502">
+        <name>PT48</name>
+    </wpt>
+    <wpt lat="22.336572" lon="114.174463">
+        <name>PT49</name>
+    </wpt>
+    <wpt lat="22.336607" lon="114.174427">
+        <name>PT50</name>
+    </wpt>
+    <wpt lat="22.336654" lon="114.174394">
+        <name>PT51</name>
+    </wpt>
+    <wpt lat="22.336696" lon="114.174366">
+        <name>PT52</name>
+    </wpt>
+    
+    
+    
+</gpx>
+
